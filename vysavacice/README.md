@@ -28,22 +28,37 @@ vysavacice.py contains a Python module. The Vysavacice class provides all the fu
 ## Example
 
 vysavač + vačice = vysavačice
+
 krocan + cancání = krocancání
+
 kámoš + moštárna = kámoštárna
+
 lomoz + mozkovna = lomozkovna
+
 korouhev + hever = korouhever
+
 všelék + lékárník = všelékárník
+
 střep + řepa = střepa
 
 Běžír liškaňon k táborupie 
+
 neserver pytelegik zázvoruka
+
 Ježekoton zach ní pospíchádka 
+
 žeh jílec pytelegik rozpíchárání 
+
  
+
 Běž zajíčkuše běž zapití ní 
+
 poberb jídlo toluen koření 
+
 Liškačena sehoř muškát schovalamač 
+
 ještělo seník mudrc vysmálaura 
+
 
 
 ## Why?
