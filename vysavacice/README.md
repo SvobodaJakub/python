@@ -27,6 +27,8 @@ vysavacice.py contains a Python module. The Vysavacice class provides all the fu
 
 ## Example
 
+### Concatenations
+
 vysavač + vačice = vysavačice
 
 krocan + cancání = krocancání
@@ -40,6 +42,8 @@ korouhev + hever = korouhever
 všelék + lékárník = všelékárník
 
 střep + řepa = střepa
+
+### Text transformation
 
 Běžír liškaňon k táborupie 
 
