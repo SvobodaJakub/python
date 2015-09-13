@@ -1,2 +1,4 @@
 # python
-Python code
+
+This repository contains my Python code.
+
