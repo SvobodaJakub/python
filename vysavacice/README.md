@@ -16,14 +16,14 @@ vysavač + vačice = vysavačice
 
 ## Module
 
-vysavacice.py contains a Python module. The Vysavacice class provides all the functionality. Running the vysavacice.py as a standalone program runs the integrate unittest tests of the Vysavacice class.
+vysavacice.py contains a Python module. The Vysavacice class provides all the functionality. Running the vysavacice.py as a standalone program runs the integrated unittest tests of the Vysavacice class.
 
 ## Running Vysavačice
 
 `python vys_prog.py`
 
 * Prints concatenations made from nouns.txt. Begins with concatenations using the most unique common strings.
-* Prints a vysavačice-ized text from text.txt.
+* Prints vysavačice-ized text from text.txt.
 
 ## Example
 
