@@ -521,7 +521,7 @@ def main():
 	import argparse
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-v', '--vector', help="CVSS v2 vector provided as a single string. See https://www.first.org/cvss/cvss-v2-guide.pdf for the vector format.")
-	parser.add_argument('-b', '--bare-output', help="Prints only the resulting scores (number) or \"ERR\" to the output.", action='store_true')
+	parser.add_argument('-b', '--bare-output', help="Prints only the resulting scores (number) or \"nan\" to the output.", action='store_true')
 	parser.add_argument('-i', '--interactive', help="The program will ask for missing CVSS v2 vector items interactively.", action='store_true')
 	args = parser.parse_args()
 

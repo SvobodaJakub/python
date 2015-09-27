@@ -16,7 +16,7 @@ optional arguments:
                         CVSS v2 vector provided as a single string. See
                         https://www.first.org/cvss/cvss-v2-guide.pdf for the
                         vector format.
-  -b, --bare-output     Prints only the resulting scores (number) or "ERR" to
+  -b, --bare-output     Prints only the resulting scores (number) or "nan" to
                         the output.
   -i, --interactive     The program will ask for missing CVSS v2 vector items
                         interactively.
